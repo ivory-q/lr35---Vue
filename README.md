@@ -1,8 +1,8 @@
-# lr34
+# ЛР35 на Vue
 
-> A Vue.js project
+Макет онлайн-магазина с навигацией и редактированием записей с помощью vue-router и bootstrap
 
-## Build Setup
+## Установка
 
 ``` bash
 # install dependencies
@@ -14,5 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Screenshot_2](https://user-images.githubusercontent.com/65707285/152686611-6df7fe6e-751b-4a59-aa7c-5bd86e333ef8.jpg)
