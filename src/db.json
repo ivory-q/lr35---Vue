@@ -1,0 +1,258 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CPUs"
+    },
+    {
+      "id": 2,
+      "name": "Motherboards"
+    },
+    {
+      "id": 3,
+      "name": "GPUs"
+    },
+    {
+      "id": 4,
+      "name": "RAM"
+    },
+    {
+      "id": 5,
+      "name": "Cases"
+    },
+    {
+      "id": 6,
+      "name": "Power Supplies"
+    },
+    {
+      "id": 7,
+      "name": "Computer Cooling"
+    },
+    {
+      "id": 8,
+      "name": "SSD Drives"
+    },
+    {
+      "id": 9,
+      "name": "HDD Drives"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Процeссор AMD FX-4300 OEM",
+      "cat": "cpus",
+      "price": "4999",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Процессор AMD FX-4300 BOX",
+      "cat": "cpus",
+      "img": "amd.jpg",
+      "price": 3999
+    },
+    {
+      "id": 3,
+      "name": "Процессор AMD A6-9500E OEM",
+      "cat": "cpus",
+      "price": "",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Процессор AMD A6-9500 OEM",
+      "cat": "cpus",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Процессор AMD A6-9400 OEM",
+      "cat": "cpus",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Процессор AMD PRO A6-8580 OEM",
+      "cat": "cpus",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Процессор Intel Celeron G5905 OEM",
+      "cat": "cpus",
+      "img": "intel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Процессор Intel Celeron G6900 OEM",
+      "cat": "cpus",
+      "img": "intel.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Процессор AMD Athlon 3000G OEM",
+      "cat": "cpus",
+      "img": "amd.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Процессор Intel Pentium Gold G6405 OEM",
+      "cat": "cpus",
+      "img": "intel.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Процессор Intel Pentium Gold G6405 OEM",
+      "cat": "cpus",
+      "img": "intel.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Материнская плата AMD FX-4300 OEM",
+      "cat": "motherboards",
+      "price": "4999",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Материнская плата AMD FX-4300 BOX",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Материнская плата AMD A6-9500E OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg",
+      "price": 3999
+    },
+    {
+      "id": 15,
+      "name": "Материнская плата AMD A6-9500 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg",
+      "price": 4999
+    },
+    {
+      "id": 16,
+      "name": "Материнская плата AMD A6-9400 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Материнская плата AMD PRO A6-8580 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Материнская плата Intel Celeron G5905 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Материнская плата Intel Celeron G6900 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Материнская плата AMD Athlon 3000G OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Материнская плата Intel Pentium Gold G6405 OEM",
+      "cat": "motherboards",
+      "img": "motherboard.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Видеокарта AMD FX-4300 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Видеокарта AMD FX-4300 BOX",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Видеокарта AMD A6-9500E OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Видеокарта AMD A6-9500 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Видеокарта AMD A6-9400 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Видеокарта AMD PRO A6-8580 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Видеокарта Intel Celeron G5905 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Видеокарта Intel Celeron G6900 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Видеокарта AMD Athlon 3000G OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Видеокарта Intel Pentium Gold G6405 OEM",
+      "cat": "gpus",
+      "img": "gpu.jpg"
+    },
+    {
+      "id": 32,
+      "name": "test",
+      "cat": "motherboards",
+      "price": "1212"
+    },
+    {
+      "id": 33,
+      "name": "none",
+      "cat": "motherboards",
+      "price": "2022"
+    },
+    {
+      "id": 37,
+      "name": "psu",
+      "cat": "power_supplies",
+      "price": "1999"
+    },
+    {
+      "id": 38,
+      "name": "Edited",
+      "cat": "ssd_drives",
+      "price": "999"
+    }
+  ]
+}
